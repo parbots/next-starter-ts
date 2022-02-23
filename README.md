@@ -7,7 +7,7 @@ A Next.js starter template with typescript support and minimal boilerplate.
 # Usage
 
 ```bash
-npx create-next-app@latest <project-name> -e https://github.com/parkerbotsford/next-starter-ts
+npx create-next-app <project-name> -e https://github.com/parkerbotsford/next-starter-ts
 ```
 
 <br>
